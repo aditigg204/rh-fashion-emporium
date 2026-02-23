@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import logo from "./assets/logo.png";
+import logo from "../public/logo.png";
 
-import suit1 from "./assets/products/suit1.png";
-import suit2 from "./assets/products/suit2.png";
-import suit3 from "./assets/products/suit3.png";
-import suit4 from "./assets/products/suit4.png";
-import heroImg from "./assets/hero.png";
+import suit1 from "../public/products/suit1.png";
+import suit2 from "../public/products/suit2.png";
+import suit3 from "../public/products/suit3.png";
+import suit4 from "../public/products/suit4.png";
+import heroImg from "../public/hero.png";
 
 const products = [
   { name: "Fancy Party Wear", img: suit1 },
