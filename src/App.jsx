@@ -154,6 +154,9 @@ export default function App() {
     <p className="text-gray-600 mb-4">
       📞 + 91 9210766371
     </p>
+    <p className="text-gray-600 mb-4">
+      📞 + 91 9911606758
+    </p>
 
     <p className="text-gray-600 mb-4">
       rh.fashionemporium@gmail.com
